@@ -1,5 +1,7 @@
 # Breakout
 
+![alt text](screenshot.png)
+
 ### Environment
 Tested on Java 1.8, MacOS.
 
