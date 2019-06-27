@@ -4,7 +4,7 @@
 Tested on Java 1.8, MacOS.
 
 ### How to Build and Run
-Gradle and Java 1.8 is required.
+Gradle and Java 1.8 are required.
 ```
 gradle build
 ```
